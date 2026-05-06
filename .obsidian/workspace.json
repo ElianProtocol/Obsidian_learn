@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "652a81463c73ca73",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd6241a17aefecbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64afba89e30799a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Основы DevOps и Linux/1.4 Сетевые протоколы и безопасность/Обзор уровней модели OSI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Обзор уровней модели OSI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27f6841b47f8bc3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c594ae7c8b40fda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7974d2c767b29455",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "9ffb68bd2f6128a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "504674b4fd99fe9c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          },
+          {
+            "id": "cd21d901f7743013",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "27964641bc7c322c",
+    "type": "split",
+    "children": [
+      {
+        "id": "21613f9fce0541d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7a0798660ee2367",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/Теория/Git_Basics.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Git_Basics.md"
+            }
+          },
+          {
+            "id": "6e4fa810ca8dbeb0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git/Теория/Git_Basics.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Git_Basics.md"
+            }
+          },
+          {
+            "id": "855857a8ee93e3bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "9ad5b1c49a30b748",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "a7dfcaf51eb3215f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/Теория/Git_Basics.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Git_Basics.md"
+            }
+          },
+          {
+            "id": "28ab6610765762b3",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "64afba89e30799a4",
+  "lastOpenFiles": [
+    "1. Основы DevOps и Linux/1.4 Сетевые протоколы и безопасность/Обзор уровней модели OSI.md",
+    "1. Основы DevOps и Linux/1. Философия DevOps и методологии/Философия DevOps и методологии.md",
+    "1. Основы DevOps и Linux/1.4 Сетевые протоколы и безопасность/Сетевые протоколы и безопасность.md",
+    "1. Основы DevOps и Linux/1.3 Bash scripting и автоматизация/Bash scripting и автоматизация.md",
+    "1. Основы DevOps и Linux/1.3 Bash scripting и автоматизация/Функции в Bash (объявление и вызов).md",
+    "Практика.md",
+    "1. Основы DevOps и Linux/1.4 Сетевые протоколы и безопасность",
+    "1. Основы DevOps и Linux/1.2 Linux администрирование/Процессы и управление ими (ps, top, kill).md",
+    "1. Основы DevOps и Linux/1.2 Linux администрирование/Обзор дистрибутивов Linux (Debian, Red Hat, Ubuntu).md",
+    "1. Основы DevOps и Linux/1.2 Linux администрирование/Права доступа (chmod, chown и атрибуты).md",
+    "1. Основы DevOps и Linux/1.2 Linux администрирование/Управление пользователями (создание, удаление и права).md",
+    "1. Основы DevOps и Linux/1.3 Bash scripting и автоматизация/Введение в Bash (синтаксис и особенности).md",
+    "1. Основы DevOps и Linux/1. Философия DevOps и методологии/Обзор CI CD (непрерывная интеграция и доставка).md",
+    "1. Основы DevOps и Linux/1. Философия DevOps и методологии/Культура взаимодействия и ответственность команды.md",
+    "1. Основы DevOps и Linux/1.2 Linux администрирование/Файловые системы (структура и важные директории).md",
+    "1. Основы DevOps и Linux/1.3 Bash scripting и автоматизация/Условные конструкции (if, elif, else).md",
+    "1. Основы DevOps и Linux/1.3 Bash scripting и автоматизация/Переменные среды и локальные переменные.md",
+    "1. Основы DevOps и Linux/1.3 Bash scripting и автоматизация/Циклы (for, while, until).md",
+    "….md",
+    "Фотографии/Pasted image 20260504002640.png",
+    "Фотографии/Pasted image 20260503225244.png",
+    "Фотографии/Pasted image 20260503223218.png",
+    "Фотографии/Pasted image 20260503163328.png",
+    "Фотографии/Pasted image 20260503163110.png",
+    "-.md",
+    "Фотографии/Pasted image 20260503162301.png",
+    "1. Основы DevOps и Linux/1.2 Linux администрирование/Linux администрирование.md",
+    "1. Основы DevOps и Linux/Основы DevOps и Linux.md",
+    "1. Основы DevOps и Linux/1. Философия DevOps и методологии/Что такое DevOps (базовые принципы).md",
+    "1. Основы DevOps и Linux/1.3 Bash scripting и автоматизация",
+    "1. Основы DevOps и Linux/1.2 Linux администрирование/Без названия",
+    "1. Основы DevOps и Linux/Без названия.md",
+    "Фотографии/Pasted image 20260503014633.png",
+    "1. Основы DevOps и Linux/1. Философия DevOps и методологии/Основные методологии (Scrum, Kanban, XP).md",
+    "Фотографии/Pasted image 20260502170352.png",
+    "Фотографии/Pasted image 20260502162941.png",
+    "Git/Git/Практика/Упражнения.md",
+    "1. Основы DevOps и Linux/1. Философия DevOps и методологии/Преимущества DevOps перед классическими моделями.md",
+    "1. Основы DevOps и Linux",
+    "Фотографии/Pasted image 20260502011013.png",
+    "1. Основы DevOps и Linux/1.2 Linux администрирование",
+    "Git/Git/Практика/Упражнения",
+    "Фотографии",
+    "Git/Git/Собесы/Упражнения",
+    "Git/Git/Теория",
+    "Git/Git/Собесы",
+    "Без названия.canvas",
+    "Git/Теория/Без названия.canvas",
+    "Linux/Теория/Без названия.canvas"
+  ]
+}

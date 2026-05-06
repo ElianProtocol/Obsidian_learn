@@ -1,0 +1,124 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Обзор уровней модели OSI",
+      "path": "1. Основы DevOps и Linux/1.4 Сетевые протоколы и безопасность/Обзор уровней модели OSI.md"
+    },
+    {
+      "basename": "Философия DevOps и методологии",
+      "path": "1. Основы DevOps и Linux/1. Философия DevOps и методологии/Философия DevOps и методологии.md"
+    },
+    {
+      "basename": "Сетевые протоколы и безопасность",
+      "path": "1. Основы DevOps и Linux/1.4 Сетевые протоколы и безопасность/Сетевые протоколы и безопасность.md"
+    },
+    {
+      "basename": "Bash scripting и автоматизация",
+      "path": "1. Основы DevOps и Linux/1.3 Bash scripting и автоматизация/Bash scripting и автоматизация.md"
+    },
+    {
+      "basename": "Функции в Bash (объявление и вызов)",
+      "path": "1. Основы DevOps и Linux/1.3 Bash scripting и автоматизация/Функции в Bash (объявление и вызов).md"
+    },
+    {
+      "basename": "Практика",
+      "path": "Практика.md"
+    },
+    {
+      "basename": "Процессы и управление ими (ps, top, kill)",
+      "path": "1. Основы DevOps и Linux/1.2 Linux администрирование/Процессы и управление ими (ps, top, kill).md"
+    },
+    {
+      "basename": "Обзор дистрибутивов Linux (Debian, Red Hat, Ubuntu)",
+      "path": "1. Основы DevOps и Linux/1.2 Linux администрирование/Обзор дистрибутивов Linux (Debian, Red Hat, Ubuntu).md"
+    },
+    {
+      "basename": "Права доступа (chmod, chown и атрибуты)",
+      "path": "1. Основы DevOps и Linux/1.2 Linux администрирование/Права доступа (chmod, chown и атрибуты).md"
+    },
+    {
+      "basename": "Управление пользователями (создание, удаление и права)",
+      "path": "1. Основы DevOps и Linux/1.2 Linux администрирование/Управление пользователями (создание, удаление и права).md"
+    },
+    {
+      "basename": "Введение в Bash (синтаксис и особенности)",
+      "path": "1. Основы DevOps и Linux/1.3 Bash scripting и автоматизация/Введение в Bash (синтаксис и особенности).md"
+    },
+    {
+      "basename": "Обзор CI CD (непрерывная интеграция и доставка)",
+      "path": "1. Основы DevOps и Linux/1. Философия DevOps и методологии/Обзор CI CD (непрерывная интеграция и доставка).md"
+    },
+    {
+      "basename": "Культура взаимодействия и ответственность команды",
+      "path": "1. Основы DevOps и Linux/1. Философия DevOps и методологии/Культура взаимодействия и ответственность команды.md"
+    },
+    {
+      "basename": "Файловые системы (структура и важные директории)",
+      "path": "1. Основы DevOps и Linux/1.2 Linux администрирование/Файловые системы (структура и важные директории).md"
+    },
+    {
+      "basename": "Условные конструкции (if, elif, else)",
+      "path": "1. Основы DevOps и Linux/1.3 Bash scripting и автоматизация/Условные конструкции (if, elif, else).md"
+    },
+    {
+      "basename": "Переменные среды и локальные переменные",
+      "path": "1. Основы DevOps и Linux/1.3 Bash scripting и автоматизация/Переменные среды и локальные переменные.md"
+    },
+    {
+      "basename": "Циклы (for, while, until)",
+      "path": "1. Основы DevOps и Linux/1.3 Bash scripting и автоматизация/Циклы (for, while, until).md"
+    },
+    {
+      "basename": "Linux администрирование",
+      "path": "1. Основы DevOps и Linux/1.2 Linux администрирование/Linux администрирование.md"
+    },
+    {
+      "basename": "Основы DevOps и Linux",
+      "path": "1. Основы DevOps и Linux/Основы DevOps и Linux.md"
+    },
+    {
+      "basename": "Что такое DevOps (базовые принципы)",
+      "path": "1. Основы DevOps и Linux/1. Философия DevOps и методологии/Что такое DevOps (базовые принципы).md"
+    },
+    {
+      "basename": "Основные методологии (Scrum, Kanban, XP)",
+      "path": "1. Основы DevOps и Linux/1. Философия DevOps и методологии/Основные методологии (Scrum, Kanban, XP).md"
+    },
+    {
+      "basename": "Упражнения",
+      "path": "Git/Git/Практика/Упражнения.md"
+    },
+    {
+      "basename": "Преимущества DevOps перед классическими моделями",
+      "path": "1. Основы DevOps и Linux/1. Философия DevOps и методологии/Преимущества DevOps перед классическими моделями.md"
+    },
+    {
+      "basename": "Bash-скриптинг (Основы автоматизации)",
+      "path": "Linux/Теория/Bash-скриптинг (Основы автоматизации).md"
+    },
+    {
+      "basename": "Отмена коммитов",
+      "path": "Git/Git/Практика/Упражнения/Отмена коммитов.md"
+    },
+    {
+      "basename": "Мой первый коммит",
+      "path": "Git/Git/Практика/Упражнения/Мой первый коммит.md"
+    },
+    {
+      "basename": "Время для открытия филиала",
+      "path": "Git/Git/Практика/Упражнения/Время для открытия филиала.md"
+    },
+    {
+      "basename": "Стратегии ветвления (Branching Strategies)",
+      "path": "Git/Git/Теория/Стратегии ветвления (Branching Strategies).md"
+    },
+    {
+      "basename": "Команды Advanced Level",
+      "path": "Git/Git/Теория/Команды Advanced Level.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
